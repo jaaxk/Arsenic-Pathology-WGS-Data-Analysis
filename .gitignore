@@ -1,0 +1,4 @@
+venv/
+extracted_genome/
+Mouse_Set123_VCFs.tbz2
+.DS_Store
